@@ -1,0 +1,20 @@
+{
+    "name": "cordova-plugin-infinea",
+    "version": "0.1.0",
+    "description": "A sample for a new cordova plugin",
+    "cordova": {
+      "id": "cordova-plugin-infinea",
+      "platforms": [
+        "ios"
+      ]
+    },
+    "keywords": [
+      "cordova",
+      "plugin",
+      "hello",
+      "ecosystem:cordova",
+      "cordova-android"
+    ],
+    "author": "Don Coleman",
+    "license": "Apache-2"
+  }
